@@ -1,0 +1,3 @@
+- 👋 Hey There!
+- 🌱 I’m currently learning financial analysis
+- 💞️ & I’m looking to collaborate on finance related projecets
